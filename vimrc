@@ -117,6 +117,10 @@ if has("autocmd")
     " File formats
     au BufNewFile,BufRead  *.pls    set syntax=dosini
     au BufNewFile,BufRead  modprobe.conf    set syntax=modconf
+    
+    au BufRead,BufNewFile *.js set tabstop=2       " numbers of spaces of tab character
+    au BufRead,BufNewFile *.js set shiftwidth=2    " numbers of spaces to (auto)indent
+    au BufRead,BufNewFile *.js set softtabstop=2
 endif
 
 " Keyboard mappings
