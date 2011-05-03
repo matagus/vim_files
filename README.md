@@ -25,6 +25,7 @@ Plugins
  * [django.vim](http://www.vim.org/scripts/script.php?script_id=1487): Syntax highlighting for Django templates.
  * [Css Pretty](http://www.vim.org/scripts/script.php?script_id=2137): Pretty-print a css file.
  * [vim-javascript](https://github.com/pangloss/vim-javascript): Vastly improved vim's javascript indentation, syntaxs and other goodies.
+ * [jade.vim](https://github.com/digitaltoad/vim-jade): Jade (node.js) template engine syntax highlighting and indention.
  * [vim-rails](http://www.vim.org/scripts/script.php?script_id=1567): Ruby on Rails: easy file navigation, enhanced syntax highlighting, and more.
  * [nginx.vim](http://www.vim.org/scripts/script.php?script_id=1886)
 
