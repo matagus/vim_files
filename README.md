@@ -26,6 +26,7 @@ Plugins
  * [Css Pretty](http://www.vim.org/scripts/script.php?script_id=2137): Pretty-print a css file.
  * [vim-javascript](https://github.com/pangloss/vim-javascript): Vastly improved vim's javascript indentation, syntaxs and other goodies.
  * [jade.vim](https://github.com/digitaltoad/vim-jade): Jade (node.js) template engine syntax highlighting and indention.
+ * [vim-scala](https://github.com/bdd/vim-scala) Scala Tool Support (from http://lampsvn.epfl.ch/svn-repos/scala/scala-tool-support/trunk/src/vim/)
  * [vim-rails](http://www.vim.org/scripts/script.php?script_id=1567): Ruby on Rails: easy file navigation, enhanced syntax highlighting, and more.
  * [nginx.vim](http://www.vim.org/scripts/script.php?script_id=1886)
 
