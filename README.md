@@ -22,6 +22,7 @@ Plugins
  * [Tag List](http://vim-taglist.sourceforge.net/): is a source code browser for the Vim editor.
 
  * [python.vim](http://www.vim.org/scripts/script.php?script_id=790) and [python.vim](http://hlabs.spb.ru/vim/python.vim): Enhanced version of the python syntax highlighting script.
+ * [vim-pep8](https://github.com/nvie/vim-pep8) PEP8 checking from inside vim for python files!
  * [django.vim](http://www.vim.org/scripts/script.php?script_id=1487): Syntax highlighting for Django templates.
  * [Css Pretty](http://www.vim.org/scripts/script.php?script_id=2137): Pretty-print a css file.
  * [vim-javascript](https://github.com/pangloss/vim-javascript): Vastly improved vim's javascript indentation, syntaxs and other goodies.
