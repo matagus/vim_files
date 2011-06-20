@@ -40,6 +40,16 @@ set tabstop=4
 set expandtab
 set autoindent
 
+" python-vim options:
+let python_slow_sync = 1
+let python_highlight_all = 1 " this implies:
+"let python_highlight_builtins = 1
+"let python_highlight_exceptions = 1
+"let python_highlight_string_formatting = 1
+"let python_highlight_indent_errors = 1
+"let python_highlight_space_errors = 1
+"let python_highlight_doctests = 1
+
 " NERD_tree config
 let NERDTreeChDirMode=2
 let NERDTreeIgnore=['\.vim$', '\~$', '\.pyc$', '\.swp$']
