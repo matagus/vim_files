@@ -10,6 +10,18 @@ It's specially configured to be used in [Django](http://www.djangoproject.com/),
 HTML and JavaScript and [Node.js](http://nodejs.org/) development, which are the languages and frameworks I use in a 
 daily basis (and that I love).
 
+Screenshots
+-----------
+
+![Code Completition](https://raw.githubusercontent.com/matagus/vim_files/master/screenshots/completition.png)
+
+![Nerd Tree](https://raw.githubusercontent.com/matagus/vim_files/master/screenshots/nerdtree.png)
+
+![Insert Mode](https://raw.githubusercontent.com/matagus/vim_files/master/screenshots/insert-mode.png)
+
+![JSON](https://raw.githubusercontent.com/matagus/vim_files/master/screenshots/json.png)
+
+
 Plugins
 -------
 
